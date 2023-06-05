@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sietsta
-- 🌱 I’m currently learning React & Typescript
+- 💻 React & Typescript developer
 
 <!---
 sietsta/sietsta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
